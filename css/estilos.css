@@ -1,0 +1,23 @@
+body{
+	background-color: rgba(46, 141, 230, 0.582);
+	color: black;
+	font-family: Verdana;
+}
+
+h1 {
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+	font-family: 'Times New Roman', Times, serif;	
+}
+
+a {
+	color: inherit;
+}
+
+
+div{
+	margin-top: 10px;
+	margin-left: 20px;
+}

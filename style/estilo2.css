@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(207, 196, 196);
+}
+
+.adaptativa-porcentaje-1 {
+    width: 90%;
+}
+
+h2 {
+    border-top: 2px solid black;
+    padding-top: 20px;
+}
+
+.adaptativa-porcentaje-2 {
+    width: 50%;
+    margin: 10px;
+}
+
+.adaptativa-porcentaje-3 {
+    width: 50%;
+}

@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+h1, h2, h3, h4 {
+    color: black; 
+}
+
+.adaptativa-porcentaje-1 {
+    width: 90%;
+}
+
+h2 {
+    border-top: 2px solid black;
+    padding-top: 20px;
+}
+
+.adaptativa-porcentaje-2 {
+    width: 50%;
+    margin: 10px;
+}
+
+.adaptativa-porcentaje-3 {
+    width: 50%;
+}
+
+@media (min-width: 600px) {
+    h1, h2, h3, h4 {
+        color: red; 
+    }
+}
+
+@media (min-width: 900px) {
+    h1, h2, h3, h4 {
+        color: blue; /* Cambia el color a azul en pantallas aún más grandes */
+    }
+}
